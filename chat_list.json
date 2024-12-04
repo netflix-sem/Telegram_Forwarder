@@ -1,0 +1,22 @@
+[
+    {
+        "source": -1002419009032,
+        "destination": [-1002314563451]
+    },
+    {
+        "source": -1002419009032,
+        "destination": [-1002314563451],
+        "filters": ["word1", "word2"]
+    },
+    {
+        "source": -1002419009032,
+        "destination": [-1002314563451],
+        "blacklist": ["majorstars.org", "/stats"]
+    },
+    {
+        "source": -1002419009032,
+        "destination": [-1002314563451],
+        "filters": ["word5"],
+        "blacklist": ["Total hits price:", "/help"]
+    }
+]
